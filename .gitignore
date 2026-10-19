@@ -1,0 +1,17 @@
+# Entorno virtual local
+.venv/
+
+# Datos descargados por torchvision y resultados generados
+data/processed/
+results/figures/*
+results/metrics/*
+results/models/*
+docs/informes/*
+
+# Entrega 2: notebooks de Fashion-MNIST e inferencia/validación
+/notebooks/ejecutados/Part 4 - Fashion-MNIST Exercise - ejecutado.ipynb
+/notebooks/ejecutados/Part 5 - Inference and Validation - ejecutado.ipynb
+/notebooks/fracturas/Guia 4-5 - fracturas.ipynb
+
+# Estado de ejecución de Jupyter
+**/.ipynb_checkpoints/
